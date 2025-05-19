@@ -51,4 +51,6 @@ I break things, learn fast, and build cool stuff on the side.
 <p align="left">
   <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=xa9ydbpy4g2zr9uw1oa737kv2&cover_image=true&theme=default&show_offline=false&background_color=1e1e1e&interchange=false&bar_color_cover=true" alt="Spotify Now Playing">
 </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stoobyy&layout=compact" alt="Top Lang">
+</p>
