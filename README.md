@@ -28,10 +28,7 @@ _Coming soon..._
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/amrithakshaj/)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@stoobyyyy?_t=ZS-8wUON0MgGvt&_r=1)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23BD081C?style=flat&logo=pinterest&logoColor=white)](https://pin.it/2cntP1syK)
-
-- 💬 Discord: `@stoobyy`
-
-![Spotify Now Playing](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=xa9ydbpy4g2zr9uw1oa737kv2&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/700195735689494558)
 
 ---
 
@@ -47,4 +44,5 @@ _Coming soon..._
 
 ---
 
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=xa9ydbpy4g2zr9uw1oa737kv2&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=xa9ydbpy4g2zr9uw1oa737kv2&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)]]
 > _“.”_
