@@ -52,9 +52,10 @@ I break things, learn fast, and build cool stuff on the side.
 
 <div align="left" style="display: flex; gap: 20px; flex-wrap: wrap; align-items: flex-start;">
 
-  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=xa9ydbpy4g2zr9uw1oa737kv2&cover_image=true&theme=default&show_offline=false&background_color=b6fcd5&interchange=false&bar_color=87cfa3" alt="Spotify Now Playing" height="250">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=xa9ydbpy4g2zr9uw1oa737kv2&cover_image=true&theme=default&show_offline=false&background_color=2e4739&interchange=false&bar_color=7ec699" alt="Spotify Now Playing" height="250">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stoobyy&layout=compact&theme=default&bg_color=b6fcd5&title_color=000000&text_color=333333&icon_color=4CAF50&hide_border=true" alt="Top Languages" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stoobyy&layout=compact&theme=dark&bg_color=2e4739&title_color=adebad&text_color=cfffe3&icon_color=adebad&hide_border=true" alt="Top Languages" height="180">
 
 </div>
+
 
