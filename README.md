@@ -45,18 +45,15 @@
 
 ## ✨ Cool Stuff Coming Soon
 
-<div align="left" style="display: flex; flex-direction: column; gap: 10px; align-items: flex-start;">
+<!-- Row 1: Spotify & GitHub Streaks Side by Side -->
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=xa9ydbpy4g2zr9uw1oa737kv2&cover_image=true&theme=default&show_offline=true&background_color=1e1e1e&bar_color=ffffff&bar_color_cover=true" height="180" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com?user=stoobyy&theme=dark&hide_border=true" height="180" />
+</p>
 
-  <!-- GitHub Streaks -->
-  <img src="https://streak-stats.demolab.com?user=stoobyy&theme=dark&hide_border=true" alt="GitHub Streaks" />
+<!-- Row 2: Language Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stoobyy&layout=compact&theme=dark&bg_color=1e1e1e&hide_border=true" height="180" />
+</p>
 
-  <div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: flex-start;">
-
-    <!-- Black & white Spotify -->
-    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=xa9ydbpy4g2zr9uw1oa737kv2&cover_image=true&theme=default&show_offline=true&background_color=1e1e1e&bar_color=ffffff&bar_color_cover=true" alt="Spotify Now Playing" height="350" />
-
-    <!-- Language chart -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stoobyy&layout=compact&theme=dark&bg_color=1e1e1e&hide_border=true" alt="Top Languages" height="180" />
-
-  </div>
-</div>
