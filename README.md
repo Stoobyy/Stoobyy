@@ -28,19 +28,19 @@ I break things, learn fast, and build cool stuff on the side.
 
 <p align="left">
   <a href="https://open.spotify.com/user/xa9ydbpy4g2zr9uw1oa737kv2">
-    <img src="https://img.shields.io/badge/Spotify-1ed760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
+    <img src="https://img.shields.io/badge/Spotify-1e1e1e?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
   </a>
   <a href="https://www.instagram.com/amrithakshaj/">
-    <img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-1e1e1e?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://www.tiktok.com/@stoobyyyy?_t=ZS-8wUON0MgGvt&_r=1">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
+    <img src="https://img.shields.io/badge/TikTok-1e1e1e?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
   </a>
   <a href="https://pin.it/2cntP1syK">
-    <img src="https://img.shields.io/badge/Pinterest-bd081c?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest">
+    <img src="https://img.shields.io/badge/Pinterest-1e1e1e?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest">
   </a>
   <a href="https://discord.com/users/700195735689494558">
-    <img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    <img src="https://img.shields.io/badge/Discord-1e1e1e?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </p>
 
