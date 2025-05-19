@@ -1,26 +1,22 @@
 <!-- README.md -->
 
-# 👋 About Me
-
-Hey, I'm **Amrith** — a curious tech tinkerer diving deep into cybersecurity, fullstack development, and AI/ML.  
-I'm a self-taught Python and Java developer who loves breaking things to understand how they work.  
-I learn fast, build faster, and live to create cool stuff.
-
+<h1 align="center">Hey 👋, I'm Amrith</h1>
+<p align="center">Cybersecurity enthusiast · Fullstack Dev · AI/ML Tinkerer</p>
 
 
 ---
 
-## 🧠 Languages & Tools
+## 🔧 Languages & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-1e1e1e?style=for-the-badge&logo=python&logoColor=4B8BBE">
-  <img src="https://img.shields.io/badge/JavaScript-1e1e1e?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img src="https://img.shields.io/badge/React-1e1e1e?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Flutter-1e1e1e?style=for-the-badge&logo=flutter&logoColor=02569B">
-  <img src="https://img.shields.io/badge/MongoDB-1e1e1e?style=for-the-badge&logo=mongodb&logoColor=47A248">
-  <img src="https://img.shields.io/badge/Java-1e1e1e?style=for-the-badge&logo=openjdk&logoColor=007396">
-  <img src="https://img.shields.io/badge/Android-1e1e1e?style=for-the-badge&logo=android&logoColor=3DDC84">
-  <img src="https://img.shields.io/badge/HTML5-1e1e1e?style=for-the-badge&logo=html5&logoColor=E34F26">
+  <img src="https://img.shields.io/badge/Python-1e1e1e?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-1e1e1e?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/React-1e1e1e?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/Flutter-1e1e1e?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-1e1e1e?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-1e1e1e?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Android-1e1e1e?style=for-the-badge&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-1e1e1e?style=for-the-badge&logo=html5&logoColor=white">
 </p>
 
 ---
@@ -47,17 +43,20 @@ I learn fast, build faster, and live to create cool stuff.
 
 ---
 
-
-
 ## ✨ Cool Stuff Coming Soon
 
-<div align="left" style="display: flex; gap: 20px; flex-wrap: wrap; align-items: flex-start;">
+<div align="left" style="display: flex; flex-direction: column; gap: 10px; align-items: flex-start;">
 
-  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=xa9ydbpy4g2zr9uw1oa737kv2&cover_image=true&theme=default&show_offline=false&background_color=1e1e1e&interchange=false&bar_color_cover=true" alt="Spotify Now Playing" height="350">
+  <!-- GitHub Streaks -->
+  <img src="https://streak-stats.demolab.com?user=stoobyy&theme=dark&hide_border=true" alt="GitHub Streaks" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stoobyy&layout=compact&theme=dark&bg_color=1e1e1e&hide_border=true" alt="Top Languages" height="180">
+  <div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: flex-start;">
 
+    <!-- Black & white Spotify -->
+    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=xa9ydbpy4g2zr9uw1oa737kv2&cover_image=true&theme=default&show_offline=true&background_color=1e1e1e&bar_color=ffffff&bar_color_cover=true" alt="Spotify Now Playing" height="350" />
+
+    <!-- Language chart -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stoobyy&layout=compact&theme=dark&bg_color=1e1e1e&hide_border=true" alt="Top Languages" height="180" />
+
+  </div>
 </div>
-
-
-
