@@ -11,10 +11,10 @@ Hey, I'm **Amrith** — a tech tinkerer into cybersecurity, fullstack developmen
   <img src="https://img.shields.io/badge/JavaScript-fff?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/React-fff?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Flutter-fff?style=for-the-badge&logo=flutter&logoColor=02569B">
-  <img src="https://img.shields.io/badge/MongoDB-fff?style=for-the-badge&logo=mongodb&logoColor=47A248">
-  <img src="https://img.shields.io/badge/Java-fff?style=for-the-badge&logo=openjdk&logoColor=007396">
-  <img src="https://img.shields.io/badge/Android-fff?style=for-the-badge&logo=android&logoColor=3DDC84">
-  <img src="https://img.shields.io/badge/HTML5-fff?style=for-the-badge&logo=html5&logoColor=E34F26">
+  <img src="https://img.shields.io/badge/MongoDB-1e1e1e?style=for-the-badge&logo=mongodb&logoColor=47A248">
+  <img src="https://img.shields.io/badge/Java-1e1e1e?style=for-the-badge&logo=openjdk&logoColor=007396">
+  <img src="https://img.shields.io/badge/Android-1e1e1e?style=for-the-badge&logo=android&logoColor=3DDC84">
+  <img src="https://img.shields.io/badge/HTML5-1e1e1e?style=for-the-badge&logo=html5&logoColor=E34F26">
 
 </p>
 
