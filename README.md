@@ -45,19 +45,13 @@
 
 ## ✨ Cool Stuff Coming Soon
 
-<table>
-  <tr>
-    <!-- Left: Spotify -->
-    <td>
-      <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=xa9ydbpy4g2zr9uw1oa737kv2&cover_image=true&theme=default&show_offline=true&background_color=1e1e1e&bar_color=ffffff&bar_color_cover=true" height="350" />
-    </td>
-    
-    <!-- Right: GitHub Streak + Top Languages -->
-    <td>
-      <img src="https://streak-stats.demolab.com?user=stoobyy&theme=dark&hide_border=true" height="170" />
-      <br />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stoobyy&layout=compact&theme=dark&bg_color=1e1e1e&hide_border=true" height="170" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <!-- Spotify on the left -->
+  <img align="left" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=xa9ydbpy4g2zr9uw1oa737kv2&cover_image=true&theme=default&show_offline=true&background_color=1e1e1e&bar_color=ffffff&bar_color_cover=true" height="350" />
+
+  <!-- GitHub streak + top languages on the right -->
+  <img align="right" src="https://streak-stats.demolab.com?user=stoobyy&theme=dark&hide_border=true" height="170" />
+  <br/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stoobyy&layout=compact&theme=dark&bg_color=1e1e1e&hide_border=true" height="170" />
+</p>
 
