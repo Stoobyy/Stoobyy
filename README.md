@@ -2,9 +2,10 @@
 
 # 👋 About Me
 
-Hey, I'm **Amrith** — a tech tinkerer into cybersecurity, fullstack development, and AI/ML.
-Self taught Python and Java dev
+Hey, I'm **Amrith** — a tech tinkerer into cybersecurity, fullstack development, and AI/ML.  
+Self taught Python and Java dev  
 I break things, learn fast, and build cool stuff on the side.
+
 
 ---
 
