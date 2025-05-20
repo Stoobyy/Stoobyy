@@ -47,7 +47,10 @@
 
 <p align="center">
   <!-- Spotify (left, tall) -->
-  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=xa9ydbpy4g2zr9uw1oa737kv2&cover_image=true&theme=default&show_offline=true&background_color=1e1e1e&bar_color=ffffff&bar_color_cover=true" height="350" align="left"/>
+ <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=xa9ydbpy4g2zr9uw1oa737kv2&redirect=true">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=xa9ydbpy4g2zr9uw1oa737kv2&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" height="350" align="left"/>
+</a>
+
   
   <!-- GitHub Streak + Languages (right, stacked) -->
   <img src="https://streak-stats.demolab.com?user=stoobyy&theme=dark&hide_border=true" height="165" align="top"/>
