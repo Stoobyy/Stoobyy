@@ -1,7 +1,7 @@
  <!-- README.md -->
 
 <h1 align="center">Hey 👋, I'm Amrith</h1>
-<p align="center">Cybersecurity enthusiast · Fullstack Dev · AI/ML Tinkerer</p>
+<h3 align="center">Cybersecurity enthusiast · Fullstack Dev · AI/ML Tinkerer</h3>
 
 
 ---
