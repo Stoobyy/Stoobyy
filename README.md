@@ -1,4 +1,4 @@
-<!-- README.md -->
+ <!-- README.md -->
 
 <h1 align="center">Hey 👋, I'm Amrith</h1>
 <p align="center">Cybersecurity enthusiast · Fullstack Dev · AI/ML Tinkerer</p>
@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/React-1e1e1e?style=for-the-badge&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/Flutter-1e1e1e?style=for-the-badge&logo=flutter&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-1e1e1e?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-1e1e1e?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-1e1e1e?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Android-1e1e1e?style=for-the-badge&logo=android&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-1e1e1e?style=for-the-badge&logo=html5&logoColor=white">
 </p>
