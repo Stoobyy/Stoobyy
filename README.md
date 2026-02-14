@@ -4,8 +4,6 @@
 <h3 align="center">Cybersecurity enthusiast · Fullstack Dev · AI/ML Tinkerer</h3>
 
 
----
-
 ## 🔧 Languages & Tools
 
 <p align="left">
@@ -19,7 +17,6 @@
   <img src="https://img.shields.io/badge/HTML5-1e1e1e?style=for-the-badge&logo=html5&logoColor=white">
 </p>
 
----
 
 ## 🌐 Connect With Me
 
@@ -40,15 +37,4 @@
     <img src="https://img.shields.io/badge/Discord-1e1e1e?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </p>
-
----
-
-## ✨ Cool Stuff Coming Soon
-
-<p align="center">
- <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=xa9ydbpy4g2zr9uw1oa737kv2&redirect=true">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=xa9ydbpy4g2zr9uw1oa737kv2&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" height="350" align="left"/>
-</a>
-
- 
 
